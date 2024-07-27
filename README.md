@@ -10,8 +10,6 @@
 
 **Mentor**:N.Santhosh Kumar
 # CODTECH-Task2
-#### **PREDICTIVE MODELING WITH LINEAR REGRESSION**
-
 ### **Predictive Modeling with Linear Regression**
 
 #### **Overview:**
