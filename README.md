@@ -10,9 +10,9 @@
 
 **Mentor**:N.Santhosh Kumar
 # CODTECH-Task2
-### **Predictive Modeling with Linear Regression**
+### **Predictive Modeling with Linear Regression **
 
-#### **Overview:**
+#### **Overview :**
 This project focuses on building a simple linear regression model to predict continuous target variables using the Boston Housing dataset. The goal is to predict the median value of owner-occupied homes based on the average number of rooms per dwelling.
 
 #### **Objective:**
